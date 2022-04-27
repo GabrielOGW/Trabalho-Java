@@ -7,8 +7,7 @@ Foram pedidas 3 atividades a serem realizadas, segue o descritivo de cada ativid
 Atividade 1:  
 1.Criar uma classe Calculadora com:  
     Dois números;  
-    *Métodos somar,subtrair, multiplicar e dividir.  
-    
+    Métodos somar,subtrair, multiplicar e dividir.  
 2.Criar outra classe ExecutaCalc onde deve-se:  
     Instanciar o objeto;  
     Informar os números e a operação desejada;  
