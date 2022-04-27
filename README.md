@@ -14,6 +14,7 @@ Atividade 1:
 *  Instanciar o objeto;  
 *  Informar os números e a operação desejada;  
 *  Imprimir o resultado  
+
 Arquivos: Calculadora.java e ExecutaCalc.java  
 
 Atividade 2:  
@@ -36,6 +37,7 @@ Desconto - Imposto:
 Criar outra classe InfFuncionario para instanciar o objeto.  
 Digitar os dados do funcionário.  
 Chamar os métodos para calcular aumento e descontos e mostrar dados do funcionário e o salário líquido.  
+
 Arquivos: Funcionario.java e InfFuncionário.java  
 
 Atividade 3:  
@@ -49,4 +51,5 @@ A empresa tem três perfil de clientes:
 *  Diamond (compras acima de R$ 10.000,00, Desconto em pagamento a vista: 7%, Juros em pagamento parcelado: 2%)  
 *  Gold (compras acima de R$ 3.000,00, Desconto em pagamento a vista: 4%, Juros em pagamento parcelado: 3%)  
 *  Comum (compras até R$ 3.000,00, Desconto em pagamento a vista: 2%, Juros em pagamento parcelado: 5%)  
+
 Arquivos: Cliente.java, ClienteComum.java, ClienteGold.java, ClienteDiamond.java e ExecCliente.java  
