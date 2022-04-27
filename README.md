@@ -7,8 +7,10 @@ Foram pedidas 3 atividades a serem realizadas, segue o descritivo de cada ativid
 Atividade 1:  
 1.Criar uma classe Calculadora com:  
 *  Dois números;  
-*  Métodos somar,subtrair, multiplicar e dividir.  
+*  Métodos somar,subtrair, multiplicar e dividir.
+
 2.Criar outra classe ExecutaCalc onde deve-se:  
+
 *  Instanciar o objeto;  
 *  Informar os números e a operação desejada;  
 *  Imprimir o resultado  
@@ -25,7 +27,9 @@ Aumento:
 Dependentes:  
 
 *  acrescentar R$200,00 por dependente  
+
 Desconto - Imposto:  
+
 *  salario <= 3000 -> 7%  
 *  salario <= 7000 -> 10%  
 *  salario > 7000 -> 15%  
@@ -39,7 +43,9 @@ Atividade 3:
 O programa deverá conter as opções:  
 *  Aplicar o desconto (caso o pagamento seja à vista)  
 *  Calcular as parcelas (caso o pagamento seja a prazo)  
+
 A empresa tem três perfil de clientes:  
+
 *  Diamond (compras acima de R$ 10.000,00, Desconto em pagamento a vista: 7%, Juros em pagamento parcelado: 2%)  
 *  Gold (compras acima de R$ 3.000,00, Desconto em pagamento a vista: 4%, Juros em pagamento parcelado: 3%)  
 *  Comum (compras até R$ 3.000,00, Desconto em pagamento a vista: 2%, Juros em pagamento parcelado: 5%)  
