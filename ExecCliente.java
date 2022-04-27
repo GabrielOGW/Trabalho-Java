@@ -4,19 +4,6 @@ import javax.swing.JOptionPane;
 
 public class ExecCliente { 
 
-    /*private void showMessageCompra(int tipo, Double valor) {
-        String message = this.getMessageCompra(tipo, valor);
-        JOptionPane.showMessageDialog(null, message); 
-    }
-
-    private String getMessageCompra(Integer tipo, Double valor) {
-        if (tipo == 1) {
-            return "Valor final: R$ " + valor;
-        }
-
-        return "Valor das parcelas: R$ " + valor;
-    }*/
-
     // Define valores para comparação de criação de clientes.
     static Double ValorComum = 3000.0;
     static Double ValorGold = 10000.0;
