@@ -20,8 +20,10 @@ Criar métodos: para calcular o aumento, para calcular os descontos, dependentes
 Considerar:  
 Aumento:  
 *  salario <= R$ 5000 – 10%  
-*  salario > R$5000 – 8%  
+*  salario > R$5000 – 8%
+
 Dependentes:  
+
 *  acrescentar R$200,00 por dependente  
 Desconto - Imposto:  
 *  salario <= 3000 -> 7%  
