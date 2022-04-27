@@ -5,6 +5,7 @@ Sobre o trabalho:
 Foram pedidas 3 atividades a serem realizadas, segue o descritivo de cada atividade e seus respectivos arquivos:
 
 Atividade 1:
+<p>
 1.Criar uma classe Calculadora com:
     Dois números;
     Métodos somar,subtrair, multiplicar e dividir.
@@ -13,6 +14,7 @@ Atividade 1:
     Informar os números e a operação desejada;
     Imprimir o resultado
 Arquivos: Calculadora.java e ExecutaCalc.java
+</p>
 
 Atividade 2:
 Criar uma classe com os dados do funcionário;
