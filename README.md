@@ -4,10 +4,11 @@ Trabalho de Programação Orientada a Objetos feito em Java
 Sobre o trabalho:
 Foram pedidas 3 atividades a serem realizadas, segue o descritivo de cada atividade e seus respectivos arquivos:
 
-Atividade 1:
+Atividade 1:  
 1.Criar uma classe Calculadora com:  
-    Dois números;  
-    Métodos somar,subtrair, multiplicar e dividir.  
+    *Dois números;  
+    *Métodos somar,subtrair, multiplicar e dividir.  
+    
 2.Criar outra classe ExecutaCalc onde deve-se:  
     Instanciar o objeto;  
     Informar os números e a operação desejada;  
